@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ant1-dev/Ant1-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=300&color=00F7F5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=100&lines=Hi+there%2C+name's+Antoine;small+in+name%2C+giant+in+code+%F0%9F%90%9C" width="80%" />
+<br><br>
 
-Here are some ideas to get you started:
+<pre>
+💻 Full Stack Developer • Java / Angular / Node / PostgreSQL
+🚀 Currently building AnimeLiveCountdown
+🌐 REST & GraphQL APIs • PostgreSQL 
+🎮 Anime • Typing games • Clean UI addict
+📬 Reach me: antoinemor123@gmail.com
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<br><br>
+
+<a href="https://linkedin.com/in/antmor1">
+  <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:antoinemor123@gmail.com">
+  <img src="https://img.shields.io/badge/email-antoinemor123@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Ant1-dev/AnimeLiveCountdown">
+  <img src="https://img.shields.io/badge/AnimeLiveCountdown-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
