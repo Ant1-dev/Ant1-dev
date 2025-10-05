@@ -5,7 +5,7 @@
 
 <pre>
 💻 Full Stack Developer • Java / Angular / Node / PostgreSQL
-🚀 Currently building AnimeLiveCountdown
+🚀 Currently looking for new oppurtinities
 🌐 REST & GraphQL APIs • PostgreSQL 
 🎮 Anime • Typing games • Clean UI addict
 📬 Reach me: antoinemor123@gmail.com
@@ -18,8 +18,8 @@
 <a href="mailto:antoinemor123@gmail.com">
   <img src="https://img.shields.io/badge/email-antoinemor123@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/Ant1-dev/AnimeLiveCountdown">
-  <img src="https://img.shields.io/badge/AnimeLiveCountdown-000000?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://antoine-morrison.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
