@@ -15,9 +15,6 @@
 
 <br><br>
 
-<a href="https://linkedin.com/in/antmor1">
-  <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <a href="mailto:antoinemor123@gmail.com">
   <img src="https://img.shields.io/badge/email-antoinemor123@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
